@@ -1,0 +1,52 @@
+.container{
+    
+    text-align: center;
+}
+.table{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 12rem;
+    padding-bottom: 0.5rem;
+}
+.screen{
+    display: block;
+    margin: auto;
+    
+    text-align: right;
+    font-size: 1.5rem;
+    border-color: white;
+    border-style: none;
+    background-color: white;
+    max-width: 210px;
+    height: 70px;
+    
+}
+
+.clear{
+    background-color: red;
+    border-color: red;
+    font-size: larger;
+    border-style: none;
+    padding: 1.75rem;
+    color: white;
+}
+.button{
+    padding: 1.75rem;
+    font-size:larger;
+    border-color: white;
+    background-color: white;
+    border-style: none;
+    
+}
+.operator{
+    padding: 28px 29px ;
+    font-size: larger;
+    border-color: white;
+    border-style: none;
+    background-color: lime;
+}
+ .equal-sign{
+    background-color: aqua;
+    color: white;
+
+}
