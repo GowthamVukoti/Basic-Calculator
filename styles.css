@@ -1,6 +1,8 @@
 .container{
     
     text-align: center;
+    border-color: black;
+    
 }
 .table{
     margin-left: auto;
@@ -26,8 +28,7 @@
     grid-template-columns: auto auto auto auto;
     gap:1.5rem 1.5rem;
     margin-top: 0.75rem;
-    background-color:;
-    
+   
 }
 .hi{
     padding: 1rem 1rem;
