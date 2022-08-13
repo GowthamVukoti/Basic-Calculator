@@ -13,16 +13,50 @@
     margin: auto;
     
     text-align: right;
-    font-size: 1.5rem;
+    font-size: 2rem;
     border-color: white;
     border-style: none;
     background-color: white;
-    max-width: 210px;
-    height: 70px;
+    max-width: 190px;
+    height: 2.75rem;
     
 }
+.keys{
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto;
+    gap:1.5rem 1.5rem;
+    margin-top: 0.75rem;
+    background-color:;
+    
+}
+.hi{
+    padding: 1rem 1rem;
 
+}
 .clear{
+    padding: 0.90rem;
+    border-style: none;
+    background-color: red;
+    font-weight: bold;
+    font-size: large;
+}
+.button{
+    border-style: none;
+    font-size: large;
+    background-color: white;
+}
+.operator{
+    border-style: none;
+    font-size: large;
+    background-color: lime;
+    text-align: center;
+}
+.equal-sign{
+    background-color: aqua;
+    color: white;
+
+}
+/**.clear{
     background-color: red;
     border-color: red;
     font-size: larger;
@@ -49,4 +83,4 @@
     background-color: aqua;
     color: white;
 
-}
+}**/
